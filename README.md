@@ -14,10 +14,9 @@ La continuación de la Biblioteca Triple Peaks es el tercer proyecto en el progr
 
 ## Funsionalidad y mejoras
 
-La pagina como bien se indica es una biblioteca que muestra la primera sección con los mas solicitados tanto por nuestro staff como nuestros lectores
+La pagina como bien se indica es una biblioteca que muestra la sección con los mas solicitados tanto por nuestro staff como nuestros lectores y proximos eventos
 
 Se iran introduciendo mas secciones com:
 
-    -EVENTOS
     -REGISTRO PARA NUESTROS LECTORES
     -INFORMACIÓN DE CONTACTOS
