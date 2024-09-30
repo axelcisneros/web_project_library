@@ -16,7 +16,7 @@ La continuación de la Biblioteca Triple Peaks es el tercer proyecto en el progr
 
 La pagina como bien se indica es una biblioteca la cual cuenta con varias secciones las cuales se muestran a continuación:
 
--LOS PREFERIDOS DE NUESTRO STAF
--EVENTOS
--REGISTRO DE MEMBRESIA PARA NUESTROS LECTORES
--INFORMACIÓN DE CONTACTO
+    -LOS PREFERIDOS DE NUESTRO STAF
+    -EVENTOS
+    -REGISTRO DE MEMBRESIA PARA NUESTROS LECTORES
+    -INFORMACIÓN DE CONTACTO
