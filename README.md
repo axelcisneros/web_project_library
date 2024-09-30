@@ -12,11 +12,11 @@ La continuación de la Biblioteca Triple Peaks es el tercer proyecto en el progr
 - GIT BASH
 - GITHUB
 
-## Funsionalidad y mejoras
+## Funsionalidad
 
-La pagina como bien se indica es una biblioteca que muestra la sección con los mas solicitados tanto por nuestro staff como nuestros lectores y proximos eventos
+La pagina como bien se indica es una biblioteca la cual cuenta con varias secciones las cuales se muestran a continuación:
 
-Se iran introduciendo mas secciones com:
-
-    -REGISTRO PARA NUESTROS LECTORES
-    -INFORMACIÓN DE CONTACTOS
+-LOS PREFERIDOS DE NUESTRO STAF
+-EVENTOS
+-REGISTRO DE MEMBRESIA PARA NUESTROS LECTORES
+-INFORMACIÓN DE CONTACTO
